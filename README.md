@@ -9,3 +9,6 @@ Block Stack Game with OpenGLES2
 3. 가운데 정사각형에 블록이 겹치지 않은 부분은 제외하여 쌓임.
 4. 이전의 겹쳐진 크기만큼의 작은 블록이 생성되어 이동.
 4. 블록이 20개씩 쌓일 때마다 블록 이동속도 증가.
+
+![2](https://user-images.githubusercontent.com/35096782/40889505-c2413ab4-67a2-11e8-968b-c0e32715e640.png)
+![1](https://user-images.githubusercontent.com/35096782/40889506-c48f1cb4-67a2-11e8-885b-1f62d5501b2f.png)
